@@ -7,7 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/confraria-eletronica-png-sem-fundo-15-.png",
+  "logo": "/img/uploads/confraria-eletronica-png-transparente.png",
   "name": "Confraria Eletrônica",
   "short_name": "Confraria Eletrônica",
   "lang": "pt_br",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/confraria-eletronica-png-sem-fundo-16-.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/confraria-eletronica-png-sem-fundo-4-.png",
