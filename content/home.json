@@ -19,6 +19,10 @@
       "page": 1
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
       "type": "page-title",
       "title": "Confraria Eletrônica",
       "description": "Desde 2014, entregando tecnologia à preço justo. Toda loja em até 10x sem juros ou com desconto à vista."
