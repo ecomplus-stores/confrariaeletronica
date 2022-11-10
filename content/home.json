@@ -1,7 +1,12 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "SSD EM PROMOÇÃO",
+  "meta_description": "SSD",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ssdpromocional-copia.png",
+      "link": "https://confrariaeletronica.com.br/ssds"
+    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
