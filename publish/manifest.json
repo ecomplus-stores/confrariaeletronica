@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c7feeae9b0b32b6561fa5e217ecdbccd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d88bc4656bdf899a9d8de817017c9606.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9d35237d5b8e20b6e9abc3a2ca3f8dec.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ed24a774c9890cfea1ce081807438b6c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.907a981ae9c4fe632eca6b201bf7bba6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Confraria Eletrônica",
+  "short_name": "Confraria Eletrônica",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Informática e Serviços.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
